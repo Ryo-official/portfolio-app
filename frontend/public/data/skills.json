@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Language",
+    "skills": [
+      { "name": "Java", "proficiency": 70 },
+      { "name": "Python", "proficiency": 20 },
+      { "name": "Go", "proficiency": 30 }
+    ]
+  },
+  {
+    "title": "FW",
+    "skills": [
+      { "name": "React", "proficiency": 30 },
+      { "name": "Vue.js", "proficiency": 50 },
+      { "name": "Spring", "proficiency": 50 }
+    ]
+  },
+  {
+    "title": "Environment",
+    "skills": [
+      { "name": "Linux", "proficiency": 40 },
+      { "name": "Apache", "proficiency": 60 },
+      { "name": "Tomcat", "proficiency": 60 }
+    ]
+  }
+]
